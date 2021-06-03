@@ -1,6 +1,10 @@
 # crawler
 
-
+# todo
+- 分页支持
+# finished
+目前已经完成的部分
+- ✅ spider 路由 输入 ?keywords=xxx 关键词搜索并查询单页
 
 ## QuickStart
 
